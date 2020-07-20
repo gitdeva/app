@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.deva</groupId>
 	<artifactId>app</artifactId>
-	<version>y</version>
+	<version>0.0.1</version>
 	<name>app</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -42,8 +42,8 @@
 		</plugins>
 	</build>
 
-
-  <scm>
-    <tag>y</tag>
+	<scm>
+		<developerConnection>scm:git:git@github.com:gitdeva/app.git</developerConnection>
+	  <tag>app-0.0.1</tag>
   </scm>
 </project>
