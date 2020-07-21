@@ -43,4 +43,7 @@
 		</plugins>
 	</build>
 
+	<scm>
+		<developerConnection>scm:git:git@github.com:gitdeva/app.git</developerConnection>
+	</scm>
 </project>
